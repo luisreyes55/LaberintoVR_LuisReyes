@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Oculus/VR/Scenes/ControllerModels.unity
+    guid: 39cfe7aa0a2d46c47994d8d0308ec663
+  - enabled: 1
+    path: Assets/Scenes/laberinto.unity
+    guid: 173823be4b0e52c429ad2057bcf3be86
+  - enabled: 1
+    path: Assets/Scenes/Salida.unity
+    guid: c71ae2e5431989f4db6554b71927bb94
+  - enabled: 1
+    path: Assets/Scenes/Perdiste.unity
+    guid: a93eac4666b40324cab7e73e86676eb1
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b19d6ec8b57233d45b46940fed66d0ce, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 3b93f986022966f419d3582a12795c5c, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8ca3b34d5e5ec1c48b1813919a76da54, type: 2}
